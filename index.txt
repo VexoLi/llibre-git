@@ -1,1 +1,4 @@
-Cap¡tol 1: Introducci¢ a Git, Cap¡tol 2: Flux de treball b…sic, Cap¡tol 3: Repositoris remots 
+Capitol 1: Introducció a Git, 
+Capitol 2: Flux de treball bàsic, 
+Capitol 3: Gestió de branques,
+Capitol 4: Repositoris remots 
